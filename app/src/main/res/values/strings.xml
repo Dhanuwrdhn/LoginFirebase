@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="no_account">No have Account? <b>Sign up</b></string><!--Make signup bold-->
+</resources>
